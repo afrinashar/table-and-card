@@ -1,0 +1,28 @@
+.nav {
+  margin: 100px;
+  background-color: rgb(255, 0, 0);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  height: 20px;
+}
+.search {
+  width: 100vw;
+  background-color: brown;
+}
+.body {
+  margin-top: 50px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+ul {
+  display: inline-block;
+  margin: 10px;
+}
+li.input {
+  margin-left: 40px;
+  width: 27rem;
+  margin-top: 7px;
+  height: 40px;
+}
